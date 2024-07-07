@@ -1,1 +1,1 @@
-# Pos-Automation
+# ui-automation-POS1
